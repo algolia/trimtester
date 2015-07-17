@@ -6,9 +6,9 @@ chmod +x ./TrimTester
 ./trim_periodic.sh &
 ./drop_cache.sh &
 
-mkdir ./test/ || true
+mkdir -p ./test/
 
-rm -r ./test/*
+rm -rf ./test/*
 
 while true
 do
