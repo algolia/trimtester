@@ -1,5 +1,8 @@
 #!/bin/bash
 
+chmod +x ./*.sh
+chmod +x ./TrimTester
+
 ./trim_periodic.sh &
 ./drop_cache.sh &
 
