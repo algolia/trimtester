@@ -12,5 +12,5 @@ This testing script writes a significant amount of data to the drives. Use at yo
 # Testing
 ```bash
 make
-./run.sh
+bash ./run.sh
 ```
