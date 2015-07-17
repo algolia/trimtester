@@ -2,6 +2,6 @@
 
 while true
 do
-/sbin/fstrim -v /
-sleep 60
+	/sbin/fstrim -v /
+	sleep 60
 done
