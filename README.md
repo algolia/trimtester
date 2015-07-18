@@ -1,8 +1,8 @@
 # trimtester
-This repository contains a source code to the testing script we have used in investigation of this [trim issue](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/).
+This repository contains the source code of the testing script we have used to investigate this [trim issue](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/).
 
 # Warning
-This testing script writes a significant amount of data to the drives. Use at your own risk!
+This script writes a significant amount of data on the drives.
 
 # Requirements
 * g++
