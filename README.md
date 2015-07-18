@@ -1,4 +1,4 @@
-# trimtester
+# Trimtester
 This repository contains the source code of the testing script we have used to investigate this [trim issue](https://blog.algolia.com/when-solid-state-drives-are-not-that-solid/).
 
 # Warning
